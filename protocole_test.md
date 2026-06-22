@@ -7,7 +7,7 @@ sur trois critères : latence, précision angulaire et stabilité.
 
 ## Matériel requis
 
-- Tourelle Pan-Tilt assemblée (NEMA 17 + A4988 + courroies GT2)
+- Tourelle Pan-Tilt assemblée (NEMA 17 + A4988 + courroies GT2) OU moteur servo pour essai
 - OpenMV Cam H7 montée sur la tourelle
 - Cible : carré rouge 10×10 cm sur fond blanc
 - PC avec terminal série (115200 bauds) pour log UART
